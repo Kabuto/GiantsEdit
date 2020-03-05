@@ -1,0 +1,311 @@
+Node MapData {
+  Node FileStart "[FileStart]" once
+  Node Tiling once
+  Node Textures "<Textures>" once
+  Node SeaSpeed once
+  Node Teleport "<Teleport>" optional
+  Node StartLoc "<StartLoc>" optional
+  Node Sun "<Sun>" once
+  Node Objects "<PreObjects>" once
+  Node Objects "<Objects>" once
+  Node Fog "Fog" once
+  Node Fog "WaterFog" once
+  Node bumpclampvalue optional
+  Node DisableScenerios optional
+  Node WaterColor once
+  Node texturefiles "[textures]" once
+  Node sfxlist "[sfxlist]" once
+  Node unknownlist "[unknown]" once
+  Node fx "[fx]" once
+  Node sceneriolist "[scenerios]" once
+  Node stringlist "[includefiles]" once
+  Node LandAngles optional
+  Node LandTexFade optional
+  Node stringlist "<Flicks>" optional
+  Node stringlist "<Missions>" optional
+  Node scenerios "<Scenerios>" optional
+  Node weather "StartWeather" optional
+  Node Scenario optional
+  Node VoPath any
+  Node Music any
+  Node ArmyBin any
+  Node WorldNoLightning optional
+  Node GenericMusic "MusicHeavy" optional
+  Node GenericMusic "MusicWin" optional
+  Node GenericMusic "MusicLight" optional
+  Node GenericMusic "MusicSuspense" optional
+}
+
+Node FileStart {
+  Leaf string "Box" once
+  Leaf string "GtiName" once
+}
+
+Node Scenario {
+  Leaf single "p0" once
+}
+
+Node Tiling {
+  Leaf single "p0" once
+  Leaf single "p1" once
+  Leaf single "p2" once
+  Leaf single "p3" once
+  Leaf single "p4" once
+  Leaf single "p5" once
+  Leaf single "p6" once
+}
+
+Node Textures {
+  Leaf string "DomeTex" once
+  Leaf string "SeaTex" once
+  Leaf string "GlowTex" once
+  Leaf string "OutDomeTex" optional
+  Leaf string "DomeEdgeTex" optional
+  Leaf string "WFall1Tex" optional
+  Leaf string "WFall2Tex" optional
+  Leaf string "WFall3Tex" optional
+  Leaf string "SpaceLineTex" optional
+  Leaf string "SpaceTex" optional
+  Node Texture "GroundTexture" optional
+  Node Texture "GroundBumpTexture" optional
+  Node Texture "SlopeTexture" optional
+  Node Texture "SlopeBumpTexture" optional
+  Node Texture "WallTexture" optional
+  Node Texture "WallBumpTexture" optional
+}
+
+Node Texture {
+  Leaf string "Name" once
+  Leaf single "Stretch" once
+  Leaf single "Offset X" once
+  Leaf single "Offset Y" once
+}
+
+Node SeaSpeed {
+  Leaf single "p0" once
+  Leaf single "p1" once
+  Leaf single "p2" once
+}
+
+Node Teleport {
+  Node TeleportEntry "Teleport" any
+}
+
+Node TeleportEntry {
+  Leaf byte "Index" once
+  Leaf single "X" once
+  Leaf single "Y" once
+  Leaf single "Z" once
+  Leaf single "Angle" once
+}
+
+Node StartLoc {
+  Node StartLocEntry "StartLoc" any
+}
+
+Node StartLocEntry {
+  Leaf byte "Index" once
+  Leaf byte "Unknown" once
+  Leaf single "X" once
+  Leaf single "Y" once
+  Leaf single "Z" once
+  Leaf single "Angle" once
+}
+
+Node Sun {
+  Node Color "SunColor" once
+  Node Sunfxname once
+  Node Sunflare "Sunflare1" once
+  Node Sunflare "Sunflare2" once
+}
+
+Node Color {
+  Leaf byte "Red" once
+  Leaf byte "Green" once
+  Leaf byte "Blue" once
+}
+
+Node Sunfxname {
+  Leaf string "Name" once
+  Leaf single "p0" once
+  Leaf single "p1" once
+  Leaf single "p2" once
+  Leaf single "p3" once
+  Leaf single "p4" once
+}
+
+Node Sunflare {
+  Leaf int32 "unknown" once
+  Leaf single "p0" once
+  Leaf single "p1" once
+  Leaf single "p2" once
+  Leaf single "p3" once
+  Leaf single "p4" once
+  Leaf single "p5" once
+  Leaf single "p6" once
+  Leaf single "p7" once
+  Leaf single "p8" once
+  Leaf single "p9" once
+  Leaf single "p10" once
+}
+
+Node Objects {
+  Node Object any
+}
+
+Node Object {
+  Leaf int32 "Type" once
+  Leaf single "X" optional
+  Leaf single "Y" optional
+  Leaf single "Z" optional
+  Leaf single "Angle" optional
+  Leaf single "Angle X" optional
+  Leaf single "Angle Y" optional
+  Leaf single "Angle Z" optional
+  Leaf single "Scale" optional
+  Leaf byte "AIMode" optional
+  Leaf int32 "TeamID" optional
+  Leaf single "OData 0" optional
+  Leaf single "OData 1" optional
+  Leaf single "OData 2" optional
+  Leaf single "LightColor 0" optional
+  Leaf single "LightColor 1" optional
+  Leaf single "LightColor 2" optional
+  Leaf single "HerdMarker 0" optional
+  Leaf single "HerdMarker 1" optional
+  Leaf single "HerdMarker 2" optional
+  Leaf single "HerdMarker 3" optional
+  Leaf single "HerdMarker 4" optional
+  Leaf int32 "MinishopMIcon" any
+  Leaf int32 "MinishopRIcon" any
+  Leaf int32 "SplineKeyTime" optional
+  Leaf byte "Lock 1" optional
+  Leaf byte "Lock 2" optional
+  Node Object "Lock" any
+}
+
+Node texturefiles {
+  Node texturefile "texture" any
+}
+
+Node texturefile {
+  Leaf byte "Unknown" once
+  Leaf byte "IsSkyDome" once
+  Leaf string "Name" once
+}
+
+Node sfxlist {
+  Leaf Int32 "p0" once
+  Leaf Int32 "p1" once
+  Leaf Int32 "p2" once
+  Leaf Int32 "p3" once
+  Leaf Int32 "p4" once
+}
+
+Node unknownlist {
+  Leaf byte "unknown" any
+}
+
+Node fx {
+  Leaf Int32 "p0" once
+}
+
+Node stringlist {
+  Leaf string "Name" any
+}
+
+Node WaterColor {
+  Leaf single "p0" once
+  Leaf single "p1" once
+  Leaf single "p2" once
+  Leaf single "p3" once
+  Leaf single "p4" once
+  Leaf single "p5" once
+  Leaf single "p6" once
+  Leaf single "p7" once
+  Leaf single "p8" once
+  Leaf single "p9" once
+  Leaf single "p10" once
+  Leaf single "p11" once
+  Leaf single "p12" once
+  Leaf single "p13" once
+  Leaf single "p14" once
+  Leaf single "p15" once
+  Leaf single "p16" once
+  Leaf single "p17" once
+  Leaf single "p18" once
+  Leaf single "p19" once
+  Leaf single "p20" once
+  Leaf single "p21" once
+  Leaf single "p22" once
+}
+
+Node scenerios {
+  Node scenerio any
+}
+
+Node scenerio {
+  Leaf byte "Type" once
+  Leaf byte "Index" once
+  Leaf string "Name" once
+}
+
+Node sceneriolist {
+  Node sceneriolistitem "scenerio" any
+}
+
+Node sceneriolistitem {
+  Leaf byte "Index" once
+  Leaf string "Name" once
+}
+
+Node Fog {
+  Leaf string "Near distance" once
+  Leaf string "Far distance" once
+  Leaf byte "Red" once
+  Leaf byte "Green" once
+  Leaf byte "Blue" once
+}
+
+Node weather {
+  Leaf string "Name" once
+}
+
+Node DisableScenerios {
+  Leaf int32 "Value" once
+}
+
+Node LandTexFade {
+  Leaf single "p0" once
+  Leaf single "p1" once
+  Leaf single "p2" once
+}
+
+Node LandAngles {
+  Leaf single "Angle 0" once
+  Leaf single "Angle 1" once
+}
+
+Node bumpclampvalue {
+  Leaf single "Value" once
+}
+
+Node VoPath {
+  Leaf string "Name" once
+}
+
+Node Music {
+  Leaf string "Music" once
+}
+
+Node ArmyBin {
+  Leaf string "Name" once
+}
+
+Node WorldNoLightning {
+}
+
+Node GenericMusic {
+  Leaf string "p0" once
+  Leaf string "p1" once
+}

@@ -1,0 +1,72 @@
+Node MissionData {
+  Node Objects "<Objects>" once
+  Node Options "<Options>" once
+}
+
+Node Options {
+  Leaf int32 "NoJetpack" once
+  Leaf int32 "NoNitro" once
+  Leaf int32 "Character 0" once
+  Leaf int32 "Character 1" once
+  Leaf int32 "Character 2" once
+  Leaf int32 "Character 3" once
+  Leaf int32 "Icons" any
+  Leaf string "StartFlick" optional
+  Leaf string "EndFlick" optional
+  Leaf string "FailFlick" optional
+  Leaf single "SuccessDelay 0" optional
+  Leaf single "SuccessDelay 1" optional
+  Leaf int32 "VimpMeat" optional
+  Leaf void "GrabSmartie" optional
+  Leaf void "DiscardVimpMeat" optional
+  Leaf void "JetskiRace" optional
+  Leaf int32 "FailTime" optional
+  Leaf int32 "SmartieType" optional
+  Leaf int32 "SpecialText" optional
+}
+
+Node Objects {
+  Node Object any
+}
+
+Node Object {
+  Leaf int32 "Type" once
+  Leaf single "X" once
+  Leaf single "Y" once
+  Leaf single "Z" once
+  Leaf single "Angle" optional
+  Leaf single "Angle X" optional
+  Leaf single "Angle Y" optional
+  Leaf single "Angle Z" optional
+  Leaf single "Scale" optional
+  Leaf byte "AIMode" optional
+  Leaf int32 "TeamID" optional
+  Leaf single "OData 0" optional
+  Leaf single "OData 1" optional
+  Leaf single "OData 2" optional
+  Leaf single "LightColor 0" optional
+  Leaf single "LightColor 1" optional
+  Leaf single "LightColor 2" optional
+  Leaf single "HerdMarker 0" optional
+  Leaf single "HerdMarker 1" optional
+  Leaf single "HerdMarker 2" optional
+  Leaf single "HerdMarker 3" optional
+  Leaf single "HerdMarker 4" optional
+  Leaf int32 "MinishopMIcon" any
+  Leaf int32 "MinishopRIcon" any
+  Leaf int32 "SplineKeyTime" optional
+  Leaf void "SplinePath3D" optional
+  Leaf string "FlickUsed" any
+  Leaf byte "TriggerType" optional
+  Leaf byte "Lock 1" optional
+  Leaf byte "Lock 2" optional
+  Leaf single "Directions 0" optional
+  Leaf single "Directions 1" optional
+  Leaf single "Directions 2" optional
+  Leaf single "SplineScale 0" optional
+  Leaf single "SplineScale 1" optional
+  Leaf byte "SplineStartID" optional
+  Leaf single "AIData" any
+  Node Lock any
+}
+

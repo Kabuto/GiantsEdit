@@ -1,0 +1,77 @@
+Generic object
+0
+
+Bases/place twice for MvM or RvR
+
+Bases/Mecc base
+981
+
+Bases/Reaper base
+985
+
+Bases/Kabuto base
+1334
+
+Spawn points/Mecc team 1
+679
+AIMode 1
+
+Spawn points/Mecc team 2
+679
+AIMode 2
+
+Spawn points/Reaper team 1
+679
+AIMode 3
+
+Spawn points/Reaper team 2
+679
+AIMode 4
+
+Spawn points/Kabuto
+679
+AIMode 27
+
+Spawn points/Smartie (tunnel)
+522
+
+Markers/Vimp team 1 way point
+679
+AIMode 22
+
+Markers/Vimp team 2 way point
+679
+AIMode 23
+
+Towers/Tower
+1041
+
+Plants/Tree
+102
+
+Characters/Watch out! Crash danger!
+
+Characters/Mecc
+2
+
+Characters/Reaper
+3
+
+Characters/Kabuto
+1
+
+Characters/Vimp
+8
+
+Characters/Smartie
+11
+
+Characters/Shiner
+128
+
+Characters/Reaperman
+215
+
+Characters/Female Smartie
+216
+

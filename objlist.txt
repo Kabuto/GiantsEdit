@@ -1,0 +1,955 @@
+Object ID	File to include	Shape files
+1	xx_kabuto_flick.bin	 kb_l0
+1	xx_kabutolev1.bin	 kb_l0 kb_l1 kb_l2 kb_l3 kb_l4 kb_l5 kb_l6 kb_l7
+2	xx_mecc_flick.bin	 mc_l0 mc_l1 mc_l2 mc_l3 mc_l4 mc_l5 mc_l6 mc_l7
+2	xx_mecclev1.bin	 mc_l0 mc_l1 mc_l2 mc_l3 mc_l4 mc_l5 mc_l6 mc_l7
+3	xx_reaper_flick.bin	 rp_l0 rp_l1 rp_l2 rp_l3 rp_l4 rp_l5 rp_l6 rp_l7
+3	xx_reaperlev1.bin	 rp_l0 rp_l1 rp_l2 rp_l3 rp_l4 rp_l5 rp_l6 rp_l7
+4	xx_lander.bin	 m_lander_l0
+8	xx_vimp.bin	 vp_l1 vp_l2 vp_l3 vp_l4 vp_l5 vp_l6 vp_l7
+11	xx_smartie.bin	 sm_l0 sm_l1 sm_l2 sm_l3 sm_l4 sm_l5 sm_l6 sm_l7
+14	xx_mecc_flick.bin	 mc_bullet
+14	xx_mecclev1.bin	 mc_bullet
+14	xx_rpman_weapons.bin	 mc_bullet
+21	xx_mecc_flick.bin	 mc_gun_l0 mc_gun_l1 mc_gun_l2 mc_gun_l3 mc_gun_l4 mc_gun_l5
+21	xx_mecclev1.bin	 mc_gun_l0 mc_gun_l1 mc_gun_l2 mc_gun_l3 mc_gun_l4 mc_gun_l5
+21	xx_rpman_weapons.bin	 mc_gun_l0 mc_gun_l1 mc_gun_l2 mc_gun_l3 mc_gun_l4 mc_gun_l5
+22	xx_mecc_flick.bin	 mc_shotgun_l0 mc_shotgun_l1 mc_shotgun_l2 mc_shotgun_l3 mc_shotgun_l4 mc_shotgun_l5
+22	xx_mecclev1.bin	 mc_shotgun_l0 mc_shotgun_l1 mc_shotgun_l2 mc_shotgun_l3 mc_shotgun_l4 mc_shotgun_l5
+22	xx_rpman_weapons.bin	 mc_shotgun_l0 mc_shotgun_l1 mc_shotgun_l2 mc_shotgun_l3 mc_shotgun_l4 mc_shotgun_l5
+23	xx_mecclev1.bin	 mc_syringe
+23	xx_rpman_weapons.bin	 mc_syringe
+24	xx_reaper_spells.bin	 rw_tornado
+25	xx_mecclev1.bin	 mc_laser
+25	xx_rpman_weapons.bin	 mc_laser
+28	xx_mecc_flick.bin	 mc_beamring
+28	xx_mecclev1.bin	 mc_beamring
+28	xx_rpman_weapons.bin	 mc_beamring
+29	xx_mecclev1.bin	 mc_lasergun
+29	xx_rpman_weapons.bin	 mc_lasergun
+30	xx_raik.bin	 rp_bow rp_bow_l1 rp_bow_l2 rp_bow_l3 rp_bow_l4 rp_bow_l5
+30	xx_reaper_flick.bin	 rp_bow rp_bow_l1 rp_bow_l2 rp_bow_l3 rp_bow_l4 rp_bow_l5
+30	xx_reaperlev1.bin	 rp_bow rp_bow_l1 rp_bow_l2 rp_bow_l3 rp_bow_l4 rp_bow_l5
+31	xx_efx.bin	 rp_glow
+33	xx_reaperlev1.bin	 rw_warning
+34	xx_reaperlev1.bin	 rparrow
+35	xx_reaperlev1.bin	 rp_fire
+36	xx_mecclev1.bin	 mcbush
+36	xx_rpman_weapons.bin	 mcbush
+37	xx_efx.bin	 rp_glow
+38	xx_mecc_flick.bin	 mc_zip
+38	xx_mecclev1.bin	 mc_zip
+38	xx_rpman_weapons.bin	 mc_zip
+40	xx_reaper_spells.bin	 mr_invisible
+42	xx_mecc_flick.bin	 mc_gun_l0 mc_gun_l1 mc_gun_l2 mc_gun_l3 mc_gun_l4 mc_gun_l5
+42	xx_mecclev1.bin	 mc_gun_l0 mc_gun_l1 mc_gun_l2 mc_gun_l3 mc_gun_l4 mc_gun_l5
+42	xx_rpman_weapons.bin	 mc_gun_l0 mc_gun_l1 mc_gun_l2 mc_gun_l3 mc_gun_l4 mc_gun_l5
+43	xx_mecc_flick.bin	 mc_bullet
+43	xx_mecclev1.bin	 mc_bullet
+43	xx_rpman_weapons.bin	 mc_bullet
+44	xx_permanentaliens.bin	 ex_flash
+45	xx_permanentaliens.bin	 ex_smoke_ring
+49	xx_permanentaliens.bin	 mr_invisible mr_invisible
+53	xx_smartie_stuff.bin	 pub pub_l1 pub_l2 pub_l3 pub_l4
+60	xx_mecclev1.bin	 mc_turret mc_turret_l1 mc_turret_l2 mc_turret_l3 mc_turret_l4
+60	xx_rpman_weapons.bin	 mc_turret mc_turret_l1 mc_turret_l2 mc_turret_l3 mc_turret_l4
+71	xx_efx.bin	 sm_glow
+73	xx_ripper.bin	 ripper rip_l1 rip_l2 rip_l3 rip_l4 rip_l5 rip_l6
+74	xx_efx.bin	 smoke
+75	xx_seamonster.bin	 rm_seamonster rm_seamonster_l1 rm_seamonster_l2 rm_seamonster_l3 rm_seamonster_l4 rm_seamonster_l5 rm_seamonster_l6
+78	xx_rocks.bin	 rock_1
+79	xx_rocks.bin	 rock_2
+84	xx_mecc_flick.bin	 mcthrust
+84	xx_mecclev1.bin	 mcthrust
+84	xx_rpman_weapons.bin	 mcthrust
+85	xx_mecc_flick.bin	 mcthrust2
+85	xx_mecclev1.bin	 mcthrust2
+85	xx_rpman_weapons.bin	 mcthrust2
+90	xx_ripper.bin	 ripspit
+91	xx_rocks.bin	 rock_3 rock_3
+92	xx_plants.bin	 b_pod b_pod_l1 b_pod_l2
+93	xx_plants.bin	 b_bush b_bush_l1
+101	xx_ptree.bin	 ptree
+102	xx_ptree.bin	 ptree_bob ptree_bob_l1 ptree_bob_l2 ptree_bob_l3 ptree_bob_l4 ptree_bob_l5 ptree_bob_l6 ptree_bob_l7
+109	xx_efx.bin	 dust
+118	xx_bridge.bin	 bridge
+121	xx_efx.bin	 water_rings
+121	xx_water_rings.bin	 water_rings
+123	xx_birds.bin	 flak_l0 flak_l1
+124	xx_birds.bin	 lobird_l0
+125	xx_ptree.bin	 b_leaf1
+127	xx_mecclev1.bin	 mcflag
+127	xx_rpman_weapons.bin	 mcflag
+128	xx_fish.bin	 shiner
+129	xx_plants.bin	 s_weeds
+130	xx_plants.bin	 b_lilly
+133	xx_mecclev1_nothrust.bin	 mc_nothrust_l0
+135	xx_efx.bin	 m_blueglow
+137	xx_efx.bin	 water_drip
+137	xx_water_rings.bin	 water_drip
+138	xx_plants.bin	 s_flower1
+208	xx_lander.bin	 mecc_crash1
+215	xx_reaperman.bin	 rpman_l0 rpman_l1 rpman_l2 rpman_l3 rpman_l4 rpman_l5 rpman_l6 rpman_l7
+216	xx_smfemale.bin	 smf_l0 smf_l1 smf_l2 smf_l3 smf_l4 smf_l5 smf_l6
+218	xx_ripper.bin	 ripnest
+219	xx_ripper.bin	 mound
+220	xx_ripper.bin	 dirt1
+223	xx_birds.bin	 feather1
+224	xx_reaperman.bin	 rpm_horn rpm_horn_l1 rpm_horn_l2 rpm_horn_l3 rpm_horn_l4
+226	xx_ripper.bin	 ripnest_x
+229	xx_ripper.bin	 ripper rip_l1 rip_l2 rip_l3 rip_l4 rip_l5 rip_l6
+230	xx_ripper.bin	 ripper rip_l1 rip_l2 rip_l3 rip_l4 rip_l5 rip_l6
+232	xx_ripper.bin	 ripspitbig
+235	xx_smartie_stuff.bin	 sm_fork
+236	xx_smartie_stuff.bin	 sm_knife
+240	xx_reaperman.bin	 rpman_spear rpman_spear_l1 rpman_spear_l2 rpman_spear_l3 rpman_spear_l4
+245	xx_plants.bin	 mcbush
+247	xx_bridge.bin	 bridge_end
+254	xx_mecc_flick.bin	 mcjetpack
+254	xx_mecclev1.bin	 mcjetpack
+254	xx_rpman_weapons.bin	 mcjetpack
+256	xx_bridge.bin	 bridge_100ft
+257	xx_bridge.bin	 bridge_200ft
+258	xx_bridge.bin	 bridge_300ft
+270	xx_bigwalls.bin	 bw_arch_100
+271	xx_bigwalls.bin	 bw_arch_150
+272	xx_bigwalls.bin	 bw_arch_200
+273	xx_bigwalls.bin	 bw_corner
+274	xx_bigwalls.bin	 bw_wall_100
+275	xx_reaperman.bin	 rpman_tracer
+276	xx_offspring.bin	 rpman_grenade rpman_grenade_l1
+276	xx_reaperman.bin	 rpman_grenade rpman_grenade_l1
+276	xx_seamonster.bin	 rpman_grenade rpman_grenade_l1
+300	xx_mecc_flick.bin	 mc_machinegun_l0 mc_machinegun_l1 mc_machinegun_l2 mc_machinegun_l3 mc_machinegun_l4 mc_machinegun_l5
+300	xx_mecclev1.bin	 mc_machinegun_l0 mc_machinegun_l1 mc_machinegun_l2 mc_machinegun_l3 mc_machinegun_l4 mc_machinegun_l5
+300	xx_rpman_weapons.bin	 mc_machinegun_l0 mc_machinegun_l1 mc_machinegun_l2 mc_machinegun_l3 mc_machinegun_l4 mc_machinegun_l5
+301	xx_mecc_flick.bin	 mc_grenade_l0 mc_grenade
+301	xx_mecclev1.bin	 mc_grenade_l0 mc_grenade
+301	xx_rpman_weapons.bin	 mc_grenade_l0 mc_grenade
+302	xx_mecclev1.bin	 mc_shotgun_l0 mc_shotgun_l1 mc_shotgun_l2 mc_shotgun_l3 mc_shotgun_l4 mc_shotgun_l5
+302	xx_rpman_weapons.bin	 mc_shotgun_l0 mc_shotgun_l1 mc_shotgun_l2 mc_shotgun_l3 mc_shotgun_l4 mc_shotgun_l5
+303	xx_mecclev1.bin	 mc_machinegun_l0 mc_machinegun_l1 mc_machinegun_l2 mc_machinegun_l3 mc_machinegun_l4 mc_machinegun_l5
+303	xx_rpman_weapons.bin	 mc_machinegun_l0 mc_machinegun_l1 mc_machinegun_l2 mc_machinegun_l3 mc_machinegun_l4 mc_machinegun_l5
+311	xx_reaper_flick.bin	 rp_l3 rp_l4 rp_l5 rp_l6 rp_l7
+311	xx_reaperlev1.bin	 rp_l7
+312	xx_reaperlev1.bin	 rp_sword_trail
+506	xx_smartie_stuff.bin	 sm_boat_l0
+507	xx_smartie_stuff.bin	 sm_cart_l0
+508	xx_smartie_stuff.bin	 sm_chimney_l0
+509	xx_smartie_stuff.bin	 sm_dome_l0 sm_dome_l1 sm_dome_l2 sm_dome_l3 sm_dome_l4
+510	xx_smartie_stuff.bin	 sm_domed1_l0
+511	xx_smartie_stuff.bin	 sm_door_l0 sm_door_l1 sm_door_l2 sm_door_l3
+512	xx_smartie_stuff.bin	 sm_fences_l0
+513	xx_smartie_stuff.bin	 sm_seat_l0
+514	xx_smartie_stuff.bin	 sm_table_l0
+515	xx_smartie_stuff.bin	 sm_tower_l0
+516	xx_smartie_stuff.bin	 sm_well_l0
+517	xx_smartie_stuff.bin	 sm_window_l0 sm_window_l1 sm_window_l2
+518	xx_smartie_stuff.bin	 sm_tube_l0 sm_tube_l1 sm_tube_l2
+519	xx_smartie_stuff.bin	 sm_ladder_l0
+520	xx_smartie_stuff.bin	 sm_fences2_l0
+521	xx_smartie_stuff.bin	 sm_post_l0
+522	xx_smartie_stuff.bin	 sm_hatch_l0
+523	xx_smartie_stuff.bin	 sm_vconnect1
+524	xx_smartie_stuff.bin	 sm_vconnect2
+525	xx_smartie_stuff.bin	 sm_sphere sm_sphere_l1 sm_sphere_l2
+527	xx_smartie_stuff.bin	 sm_sphere2
+528	xx_bridge.bin	 bridge_400ft
+529	xx_smartie_stuff.bin	 sm_spheredark sm_spheredark_l1 sm_spheredark_l2
+530	xx_smartie_stuff.bin	 sm_spheredark2
+531	xx_smartie_stuff.bin	 sm_post_tall
+532	xx_bridge.bin	 bridge_500ft
+533	xx_pier.bin	 pier_straight
+534	xx_pier.bin	 pier_bend90
+535	xx_pier.bin	 pier_round_rings
+536	xx_pier.bin	 pier_round_tile
+537	xx_pier.bin	 pier_square
+538	xx_pier.bin	 pier_post20
+539	xx_pier.bin	 pier_post30
+540	xx_pier.bin	 pier_post40
+541	xx_shadows.bin	 shadow_round
+542	xx_shadows.bin	 shadow_elipse
+543	xx_shadows.bin	 shadow_elipse2
+544	xx_smartie_stuff.bin	 smw_entrance
+545	xx_smartie_stuff.bin	 smw_curvehi
+546	xx_smartie_stuff.bin	 smw_column
+547	xx_smartie_stuff.bin	 smw_curvemed
+548	xx_smartie_stuff.bin	 smw_curvelow
+549	xx_smartie_stuff.bin	 smw_column2
+550	xx_smartie_stuff.bin	 smw_cwall_low
+551	xx_smartie_stuff.bin	 smw_wall_hi
+552	xx_smartie_stuff.bin	 smw_wall_med
+553	xx_smartie_stuff.bin	 smw_wall_hi_hole
+555	xx_bigwalls.bin	 bw_gate_portcullis
+556	xx_bigwalls.bin	 bw_wall_150
+557	xx_bigwalls.bin	 bw_wall_200
+558	xx_bigwalls.bin	 bw_parapit
+558	xx_bigwalls_lite.bin	 bw_parapit
+559	xx_bigwalls.bin	 bw_sr_arch_100
+560	xx_bigwalls.bin	 bw_sr_corner
+562	xx_verm.bin	 verm_l0 verm_l2 verm_l4 verm_l5 verm_l6 verm_l7
+563	xx_pier.bin	 canopy_1
+564	xx_pier.bin	 bent_post
+565	xx_pier.bin	 pier_straight_80
+566	xx_pier.bin	 pier_straight_160
+567	xx_bigwalls.bin	 bw_column_20
+567	xx_bigwalls_lite.bin	 bw_column_20
+568	xx_bigwalls.bin	 bw_column_30
+568	xx_bigwalls_lite.bin	 bw_column_30
+569	xx_bigwalls.bin	 bw_column_40
+569	xx_bigwalls_lite.bin	 bw_column_40
+570	xx_bigwalls.bin	 bw_column_60
+570	xx_bigwalls_lite.bin	 bw_column_60
+571	xx_verm.bin	 verm_egg_l0
+572	xx_verm.bin	 verm_l0 verm_l2 verm_l4 verm_l5 verm_l6 verm_l7
+574	xx_charger.bin	 charger charger_l1 charger_l2 charger_l3 charger_l4 charger_l5 charger_l6
+575	xx_sonak.bin	 sonak_l0 sonak_l1 sonak_l2 sonak_l3 sonak_l4 sonak_l5 sonak_l6
+576	xx_verm.bin	 verm_egg_d1_l0
+577	xx_verm.bin	 verm_eggshell1
+578	xx_bigwalls.bin	 bw_bunker1
+579	xx_bigwalls.bin	 bw_top_platform
+580	xx_bigwalls.bin	 bw_top_connect1
+583	xx_smtimmy.bin	 smtimmy_l0 smtimmy_l1 smtimmy_l2 smtimmy_l3 smtimmy_l4 smtimmy_l5 smtimmy_l6
+583	xx_smtimmy_flick.bin	 smtimmy_l0
+584	xx_smborjoyzee.bin	 smborjoyzee_l0 smborjoyzee_l1 smborjoyzee_l2 smborjoyzee_l3 smborjoyzee_l4 smborjoyzee_l5 smborjoyzee_l6
+584	xx_smborjoyzee_flick.bin	 smborjoyzee_l0 sm_l7
+586	xx_sonak.bin	 sonak_seat_l0
+587	xx_bigwalls.bin	 bw_wall_100_window
+588	xx_bigwalls.bin	 bw_bunker_low
+589	xx_smartie_stuff.bin	 smw_curvehi_m
+590	xx_smartie_stuff.bin	 smw_house1 smw_house1_l1 smw_house1_l2 smw_house1_l3 smw_house1_l4
+591	xx_smartie_stuff.bin	 smw_house2 smw_house2_l1 smw_house2_l2 smw_house2_l3 smw_house2_l4
+592	xx_smartie_stuff.bin	 smw_house3 smw_house3_l1 smw_house3_l2 smw_house3_l3 smw_house3_l4
+593	xx_smartie_stuff.bin	 smw_house4 smw_house4_l1 smw_house4_l2 smw_house4_l3 smw_house4_l4
+594	xx_smartie_stuff.bin	 smw_curvemed_m
+595	xx_smartie_stuff.bin	 smw_curvelow_m
+596	xx_smartie_stuff.bin	 sm_canopy_1_blue
+597	xx_smartie_stuff.bin	 sm_canopy_1_red
+598	xx_smartie_stuff.bin	 sm_canopy_1_green
+599	xx_smartie_stuff.bin	 sm_panel
+601	xx_bigwalls.bin	 bw_sr_arch_150
+602	xx_bigwalls.bin	 bw_sr_arch_200
+606	xx_smartie_stuff.bin	 sm_raft_l0
+607	xx_sonak.bin	 sonak_ring
+609	xx_ptree.bin	 ptree_simple
+610	xx_reaperman.bin	 rpman_tracer
+611	xx_bigwalls.bin	 bw_debri_piece1
+611	xx_bigwalls_lite.bin	 bw_debri_piece1
+612	xx_bigwalls.bin	 bw_debri_piece2
+612	xx_bigwalls_lite.bin	 bw_debri_piece2
+613	xx_bigwalls.bin	 bw_debri_piece3
+613	xx_bigwalls_lite.bin	 bw_debri_piece3
+614	xx_bigwalls.bin	 bw_debri_piece4
+614	xx_bigwalls_lite.bin	 bw_debri_piece4
+615	xx_bigwalls.bin	 bw_debri_column1
+615	xx_bigwalls_lite.bin	 bw_debri_column1
+616	xx_bigwalls.bin	 bw_debri_column2
+616	xx_bigwalls_lite.bin	 bw_debri_column2
+617	xx_bigwalls.bin	 bw_debri_bunker1
+617	xx_bigwalls_lite.bin	 bw_debri_bunker1
+618	xx_shadows.bin	 shadow_blastmark_1
+619	xx_shadows.bin	 shadow_blastmark_2
+620	xx_effects.bin	 dust_ring
+621	xx_effects.bin	 water_spray
+622	xx_effects.bin	 dust_blast
+623	xx_mecc_base.bin	 muzzle_flash
+623	xx_reaper_base.bin	 muzzle_flash
+623	xx_reaperman.bin	 muzzle_flash
+625	xx_reaperman.bin	 rpman_gunseat_l0
+627	xx_mecc_base.bin	 muzzle_flash2
+627	xx_reaper_base.bin	 muzzle_flash2
+627	xx_reaperman.bin	 muzzle_flash2
+628	xx_effects.bin	 dust_flash
+646	xx_effects.bin	 shrap_ground
+647	xx_mecclev1.bin	 mc_pickup_shells
+647	xx_rpman_weapons.bin	 mc_pickup_shells
+648	xx_mecclev1.bin	 mc_pickup_clips
+648	xx_rpman_weapons.bin	 mc_pickup_clips
+649	xx_mecclev1.bin	 mc_pickup_health
+649	xx_rpman_weapons.bin	 mc_pickup_health
+650	xx_mecclev1.bin	 mc_pickup_grenades
+650	xx_rpman_weapons.bin	 mc_pickup_grenades
+651	xx_mecclev1.bin	 mcbush
+651	xx_rpman_weapons.bin	 mcbush
+652	xx_bigwalls.bin	 bw_bunker1_d1
+652	xx_bigwalls_lite.bin	 bw_bunker1_d1
+653	xx_bigwalls.bin	 bw_bunker_top
+654	xx_bigwalls.bin	 bw_bunker_low_d1
+654	xx_bigwalls_lite.bin	 bw_bunker_low_d1
+655	xx_bigwalls.bin	 bw_column_20_d1
+655	xx_bigwalls_lite.bin	 bw_column_20_d1
+656	xx_bigwalls.bin	 bw_column_30_d1
+656	xx_bigwalls_lite.bin	 bw_column_30_d1
+657	xx_bigwalls.bin	 bw_column_40_d1
+657	xx_bigwalls_lite.bin	 bw_column_40_d1
+658	xx_bigwalls.bin	 bw_column_60_d1
+658	xx_bigwalls_lite.bin	 bw_column_60_d1
+659	xx_bigwalls.bin	 bw_parapit_d1
+659	xx_bigwalls_lite.bin	 bw_parapit_d1
+660	xx_mecc_flick.bin	 mc_machinegun_shell
+660	xx_mecclev1.bin	 mc_machinegun_shell
+660	xx_rpman_weapons.bin	 mc_machinegun_shell
+662	xx_guard_buildings.bin	 muzzle_flash
+662	xx_guard_turrets.bin	 muzzle_flash
+662	xx_mecc_base.bin	 muzzle_flash
+662	xx_mecc_flick.bin	 muzzle_flash
+662	xx_mecclev1.bin	 muzzle_flash
+662	xx_reaper_base.bin	 muzzle_flash
+662	xx_rpman_weapons.bin	 muzzle_flash
+663	xx_guard_buildings.bin	 muzzle_flash2
+663	xx_guard_turrets.bin	 muzzle_flash2
+663	xx_mecc_base.bin	 muzzle_flash2
+663	xx_mecc_flick.bin	 muzzle_flash2
+663	xx_mecclev1.bin	 muzzle_flash2
+663	xx_reaper_base.bin	 muzzle_flash2
+663	xx_rpman_weapons.bin	 muzzle_flash2
+664	xx_ptree.bin	 ptree_bob_d1
+665	xx_smborjoyzee.bin	 sm_staff
+665	xx_smborjoyzee_flick.bin	 sm_staff
+666	xx_rpqueen.bin	 rpqueen_l0 rpqueen_l1 rpqueen_l2 rpqueen_l3 rpqueen_l4 rpqueen_l5 rpqueen_l6 rpqueen_l7
+666	xx_rpqueen_flick.bin	 rpqueen_l0
+667	xx_mecc_flick.bin	 blast_ring
+667	xx_mecclev1.bin	 blast_ring
+667	xx_rpman_weapons.bin	 blast_ring
+668	xx_mecc_flick.bin	 mc_shotgun_blast
+668	xx_mecclev1.bin	 mc_shotgun_blast
+668	xx_rpman_weapons.bin	 mc_shotgun_blast
+669	xx_raik.bin	 rp_sword rp_sword_l1 rp_sword_l2 rp_sword_l3 rp_sword_l4 rp_sword_l5
+669	xx_reaper_flick.bin	 rp_sword rp_sword_l1 rp_sword_l2 rp_sword_l3 rp_sword_l4 rp_sword_l5
+669	xx_reaperlev1.bin	 rp_sword rp_sword_l1 rp_sword_l2 rp_sword_l3 rp_sword_l4 rp_sword_l5
+670	xx_smartie_stuff.bin	 sm_borj_house_l0 sm_borj_house_l1 sm_borj_house_l2 sm_borj_house_l3 sm_borj_house_l4 sm_borj_house_l5 sm_borj_house_l6
+671	xx_effects.bin	 dust_ball
+672	xx_effects.bin	 dust_smoke
+677	xx_kab_stuff.bin	 mud_ball
+678	xx_kab_stuff.bin	 hot_rock
+679	xx_markers.bin	 marker
+680	xx_rocks.bin	 rock_rpman_1
+681	xx_rocks.bin	 rock_rpman_2
+682	xx_kab_stuff.bin	 hot_rock_d
+683	xx_guard_log_launcher.bin	 log_carrier
+685	xx_permanentaliens.bin	 cleaner_l0 cleaner_l1 cleaner_l2
+686	xx_guard_barracks.bin	 barracks barracks_l1 barracks_l2 barracks_l3 barracks_l4 barracks_l5
+687	xx_rocks.bin	 rock_rpman_3
+688	xx_guard_log_launcher.bin	 log_launcher
+689	xx_guard_log_launcher.bin	 log_launcher_base
+690	xx_birds.bin	 hitcher
+693	xx_reaperman.bin	 rpman_tuba rpman_tuba_l1 rpman_tuba_l2 rpman_tuba_l3 rpman_tuba_l4
+696	xx_effects.bin	 cast_spell
+697	xx_effects.bin	 rain
+702	xx_reaperlev1.bin	 rpbomb
+705	xx_bridge.bin	 bridge_200ft_d
+706	xx_bigwalls.bin	 bw_column_40_b
+706	xx_bigwalls_lite.bin	 bw_column_40_b
+707	xx_smartie_stuff.bin	 apple
+709	xx_mecc_base.bin	 wood_wall wood_wall_l1 wood_wall_l2 wood_wall_l3
+710	xx_mecc_base.bin	 wood_gift wood_gift_l1 wood_gift_l2 wood_gift_l3 wood_gift_l4 wood_gift_l5 wood_gift_l6
+711	xx_mecc_base.bin	 wood_pub wood_pub_l1 wood_pub_l2 wood_pub_l3 wood_pub_l4 wood_pub_l5 wood_pub_l6
+712	xx_mecc_base.bin	 wood_shop wood_shop_l1 wood_shop_l2 wood_shop_l3 wood_shop_l4 wood_shop_l5 wood_shop_l6
+714	xx_mecc_base.bin	 stone_wall stone_wall_l1 stone_wall_l2 stone_wall_l3 stone_wall_l4
+716	xx_mecc_base.bin	 stone_gift stone_gift_l1 stone_gift_l2 stone_gift_l3 stone_gift_l4 stone_gift_l5 stone_gift_l6
+717	xx_mecc_base.bin	 stone_shop stone_shop_l1 stone_shop_l2 stone_shop_l3 stone_shop_l4 stone_shop_l5 stone_shop_l6
+729	xx_reaper_base.bin	 extractor_1 extractor_1_l1 extractor_1_l2 extractor_1_l3 extractor_1_l4 extractor_1_l5 extractor_1_l6
+730	xx_reaper_base.bin	 extractor_2 extractor_2_l1 extractor_2_l2 extractor_2_l3 extractor_2_l4 extractor_2_l5 extractor_2_l6
+735	xx_reaper_base.bin	 spellshop_1 spellshop_1_l1 spellshop_1_l2 spellshop_1_l3 spellshop_1_l4 spellshop_1_l5 spellshop_1_l6
+736	xx_reaper_base.bin	 spellshop_2 spellshop_2_l1 spellshop_2_l2 spellshop_2_l3 spellshop_2_l4 spellshop_2_l5 spellshop_2_l6
+742	xx_smyan.bin	 smyan_l0 smyan_l1 smyan_l2 smyan_l3 smyan_l4 smyan_l5 smyan_l6
+742	xx_smyan_flick.bin	 smyan_l0
+744	xx_mecc_base.bin	 wood_gate wood_gate_l1 wood_gate_l2 wood_gate_l3 wood_gate_l4
+745	xx_offspring.bin	 offspring_l0 offspring_l1 offspring_l2 offspring_l3 offspring_l4 offspring_l5 offspring_l6
+746	xx_offspring.bin	 offspring_egg_l0
+747	xx_offspring.bin	 offspring_egg_d1_l0
+748	xx_offspring.bin	 offspring_eggshell1
+749	xx_kabutolev1.bin	 kb_hotspot
+750	xx_mecc_base.bin	 sm_firepit
+752	xx_smartie_stuff.bin	 sm_table_full
+753	xx_smartie_stuff.bin	 sm_shovel
+754	xx_smartie_stuff.bin	 sm_tankard
+755	xx_smartie_stuff.bin	 sm_hammer
+756	xx_smartie_stuff.bin	 sm_saw
+757	xx_smartie_stuff.bin	 sm_drumstick
+758	xx_smartie_stuff.bin	 sm_ribs
+759	xx_smartie_stuff.bin	 sm_pool
+761	xx_smartie_stuff.bin	 sm_planks
+762	xx_smartie_stuff.bin	 sm_woodshop_pile
+763	xx_mecc_base.bin	 d_wood_shop d_wood_shop_l1 d_wood_shop_l2 d_wood_shop_l3 d_wood_shop_l4
+764	xx_mecc_base.bin	 d_stone_gift d_stone_gift_l1 d_stone_gift_l2 d_stone_gift_l3 d_stone_gift_l4
+765	xx_mecc_base.bin	 d_stone_shop d_stone_shop_l1 d_stone_shop_l2 d_stone_shop_l3 d_stone_shop_l4
+768	xx_mecc_base.bin	 d_wood_gift d_wood_gift_l1 d_wood_gift_l2 d_wood_gift_l3 d_wood_gift_l4
+769	xx_mecc_base.bin	 d_wood_wall d_wood_wall_l1 d_wood_wall_l2
+771	xx_mecc_base.bin	 d_stone_wall d_stone_wall_l1 d_stone_wall_l2
+772	xx_mecc_base.bin	 d_wood_gate d_wood_gate_l1 d_wood_gate_l2
+773	xx_mecc_base.bin	 d_stone_gate d_stone_gate_l1 d_stone_gate_l2
+775	xx_mecc_base.bin	 stone_gate stone_gate_l1 stone_gate_l2 stone_gate_l3 stone_gate_l4
+779	xx_mecc_base.bin	 d_wood_pub d_wood_pub_l1 d_wood_pub_l2 d_wood_pub_l3 d_wood_pub_l4
+781	xx_mecclev1.bin	 mcthrust_nitro
+781	xx_rpman_weapons.bin	 mcthrust_nitro
+782	xx_smartie_stuff.bin	 sm_bricks
+783	xx_smartie_stuff.bin	 sm_metal
+785	xx_mecc_flick.bin	 mc_launcher_l0 mc_launcher_l1 mc_launcher_l2 mc_launcher_l3 mc_launcher_l4 mc_launcher_l5
+785	xx_mecclev1.bin	 mc_launcher_l0 mc_launcher_l1 mc_launcher_l2 mc_launcher_l3 mc_launcher_l4 mc_launcher_l5
+785	xx_rpman_weapons.bin	 mc_launcher_l0 mc_launcher_l1 mc_launcher_l2 mc_launcher_l3 mc_launcher_l4 mc_launcher_l5
+787	xx_mecc_flick.bin	 mc_snipergun_l0 mc_snipergun_l1 mc_snipergun_l2 mc_snipergun_l3 mc_snipergun_l4 mc_snipergun_l5
+787	xx_mecclev1.bin	 mc_snipergun_l0 mc_snipergun_l1 mc_snipergun_l2 mc_snipergun_l3 mc_snipergun_l4 mc_snipergun_l5
+787	xx_rpman_weapons.bin	 mc_snipergun_l0 mc_snipergun_l1 mc_snipergun_l2 mc_snipergun_l3 mc_snipergun_l4 mc_snipergun_l5
+788	xx_sm_book.bin	 sm_book
+788	xx_smartie_stuff.bin	 sm_book
+788	xx_smyan_pagoda.bin	 sm_book
+790	xx_mecc_flick.bin	 mc_mortar_l0 mc_mortar_l1 mc_mortar_l2 mc_mortar_l3 mc_mortar_l4 mc_mortar_l5
+790	xx_mecclev1.bin	 mc_mortar_l0 mc_mortar_l1 mc_mortar_l2 mc_mortar_l3 mc_mortar_l4 mc_mortar_l5
+790	xx_rpman_weapons.bin	 mc_mortar_l0 mc_mortar_l1 mc_mortar_l2 mc_mortar_l3 mc_mortar_l4 mc_mortar_l5
+792	xx_mecclev1.bin	 mc_pickup_sn_clips
+792	xx_rpman_weapons.bin	 mc_pickup_sn_clips
+793	xx_mecclev1.bin	 mc_sniper_bullit
+793	xx_rpman_weapons.bin	 mc_sniper_bullit
+794	xx_efx.bin	 efx_flash
+796	xx_efx.bin	 efx_debri1
+797	xx_efx.bin	 efx_debri2
+798	xx_efx.bin	 efx_fireball
+799	xx_efx.bin	 efx_shockwave
+800	xx_mecc_flick.bin	 mc_rocket
+800	xx_mecclev1.bin	 mc_rocket
+800	xx_rpman_weapons.bin	 mc_rocket
+801	xx_mecclev1.bin	 mc_pickup_rockets
+801	xx_rpman_weapons.bin	 mc_pickup_rockets
+802	xx_mecclev1.bin	 mc_pickup_lbombs
+802	xx_rpman_weapons.bin	 mc_pickup_lbombs
+803	xx_mecc_flick.bin	 mc_rocket_proximity
+803	xx_mecclev1.bin	 mc_rocket_proximity
+803	xx_rpman_weapons.bin	 mc_rocket_proximity
+804	xx_mecclev1.bin	 mc_pickup_proximity
+804	xx_rpman_weapons.bin	 mc_pickup_proximity
+805	xx_mecc_flick.bin	 mc_mine
+805	xx_mecclev1.bin	 mc_mine mc_mine_l1 mc_mine_l2 mc_mine_l3 mc_mine_l4
+805	xx_rpman_weapons.bin	 mc_mine mc_mine_l1 mc_mine_l2 mc_mine_l3 mc_mine_l4
+806	xx_mecc_flick.bin	 mc_rocket_homing
+806	xx_mecclev1.bin	 mc_rocket_homing
+806	xx_rpman_weapons.bin	 mc_rocket_homing
+807	xx_mecclev1.bin	 mc_pickup_homing
+807	xx_rpman_weapons.bin	 mc_pickup_homing
+808	xx_mecc_flick.bin	 mc_lbomb
+808	xx_mecclev1.bin	 mc_lbomb
+808	xx_rpman_weapons.bin	 mc_lbomb
+809	xx_story4.bin	 s6_dungeon
+810	xx_story4.bin	 s6_cage
+811	xx_efx.bin	 efx_shockwave_w
+813	xx_efx.bin	 efx_dustball
+814	xx_efx.bin	 efx_smoke_black
+815	xx_efx.bin	 efx_fire_trail
+816	xx_efx.bin	 efx_shockwave_b
+817	xx_efx.bin	 efx_ref_horiz_circle
+818	xx_efx.bin	 efx_ref_sphere
+819	xx_efx.bin	 efx_ref_plume
+820	xx_efx.bin	 efx_bfire_trail
+821	xx_efx.bin	 efx_ref_line_back
+822	xx_mecc_flick.bin	 mc_popupbomb
+822	xx_mecclev1.bin	 mc_popupbomb
+822	xx_rpman_weapons.bin	 mc_popupbomb
+823	xx_efx.bin	 efx_ref_line_up
+824	xx_efx.bin	 efx_shockwave_bh
+826	xx_efx.bin	 efx_smoke_blue
+827	xx_efx.bin	 efx_gfire_trail
+828	xx_efx.bin	 efx_smoke_mgrey
+829	xx_efx.bin	 efx_sniper_flash
+830	xx_snow_stuff.bin	 snowtree
+830	xx_snowtree.bin	 snowtree
+834	xx_mecc_base.bin	 sm_dropoff
+834	xx_smartie_stuff.bin	 sm_dropoff
+835	xx_smartie_stuff.bin	 base_flag_red
+836	xx_smartie_stuff.bin	 base_flag_blue
+837	xx_efx.bin	 efx_ref_line_l2r
+839	xx_efx.bin	 efx_rain
+840	xx_efx.bin	 efx_snow
+841	xx_efx.bin	 efx_hail
+846	xx_efx.bin	 efx_waterdrop
+847	xx_efx.bin	 efx_glint
+848	xx_efx.bin	 efx_bubble_reflection
+849	xx_efx.bin	 efx_bubble_hilight
+850	xx_efx.bin	 efx_bubble_glow
+851	xx_reaper_base.bin	 rp_smartie_waiting
+854	xx_efx.bin	 efx_water_ring
+857	xx_reaper_base.bin	 sm_podium_reap
+858	xx_reaper_base.bin	 sm_dropoff_reap
+859	xx_efx.bin	 efx_vimp_ghost
+861	xx_efx.bin	 efx_water_bubble
+862	xx_efx.bin	 efx_ref_bubbles
+866	xx_efx.bin	 efx_blast_area_check
+867	xx_efx.bin	 efx_dust_ball
+868	xx_efx.bin	 efx_dust_swirl
+869	xx_efx.bin	 efx_mist
+872	xx_efx.bin	 efx_smartie_spell
+873	xx_efx.bin	 efx_ref_ground_hit
+874	xx_efx.bin	 efx_snow_ball
+875	xx_efx.bin	 efx_snow_swirl
+882	xx_reaper_base.bin	 rp_soul_dropoff
+883	xx_efx.bin	 efx_redlight
+884	xx_efx.bin	 mr_invisible
+885	xx_efx.bin	 efx_blue_wide
+886	xx_efx.bin	 efx_blue_wide
+887	xx_efx.bin	 efx_ref_spin
+888	xx_efx.bin	 efx_ref_firewall
+890	xx_efx.bin	 efx_fire
+892	xx_mecclev1.bin	 mc_jetpack_2
+892	xx_rpman_weapons.bin	 mc_jetpack_2
+894	xx_efx.bin	 efx_slow_spell
+897	xx_mecclev1.bin	 mc_repairpack
+897	xx_rpman_weapons.bin	 mc_repairpack
+898	xx_mecclev1.bin	 mc_repairgun
+898	xx_rpman_weapons.bin	 mc_repairgun
+899	xx_efx.bin	 efx_lightning
+900	xx_efx.bin	 efx_wood_debri_1
+901	xx_efx.bin	 efx_wood_debri_2
+902	xx_mecclev1.bin	 mc_shield
+902	xx_rpman_weapons.bin	 mc_shield
+903	xx_reaperlev1.bin	 rp_head
+904	xx_efx.bin	 efx_hail_missile
+905	xx_efx.bin	 efx_hail_shrapnel
+906	xx_efx.bin	 mc_chunk1
+907	xx_efx.bin	 mc_chunk2
+908	xx_efx.bin	 mc_chunk3
+909	xx_efx.bin	 mc_chunk4
+910	xx_efx.bin	 mc_chunk5
+911	xx_efx.bin	 mc_chunk6
+912	xx_efx.bin	 efx_metal_debri_1
+913	xx_efx.bin	 efx_stone_debri_1
+914	xx_efx.bin	 efx_splat
+915	xx_efx.bin	 efx_spray
+916	xx_efx.bin	 efx_blood
+917	xx_efx.bin	 efx_build_select
+918	xx_mecc_base.bin	 fun_house fun_house_l1 fun_house_l2 fun_house_l3 fun_house_l4 fun_house_l5 fun_house_l6
+919	xx_efx.bin	 efx_mc_death
+920	xx_mecclev1.bin	 mc_bushpack
+920	xx_rpman_weapons.bin	 mc_bushpack
+921	xx_efx.bin	 efx_circle_spell
+922	xx_efx.bin	 efx_debri_3
+923	xx_efx.bin	 efx_ref_circle_out
+924	xx_efx.bin	 efx_ref_sphere_in
+925	xx_efx.bin	 efx_rp_target
+926	xx_efx.bin	 efx_prx_sphere
+927	xx_efx.bin	 efx_fire_roll
+928	xx_reaperlev1.bin	 rp_bow_homing rp_bow_homing_l1 rp_bow_homing_l2 rp_bow_homing_l3 rp_bow_homing_l4 rp_bow_homing_l5
+929	xx_reaperlev1.bin	 rp_bow_sniper rp_bow_sniper_l1 rp_bow_sniper_l2 rp_bow_sniper_l3 rp_bow_sniper_l4 rp_bow_sniper_l5
+930	xx_reaperlev1.bin	 rp_bow_rpg rp_bow_rpg_l1 rp_bow_rpg_l2 rp_bow_rpg_l3 rp_bow_rpg_l4 rp_bow_rpg_l5
+931	xx_reaperlev1.bin	 rp_bow_powerup rp_bow_powerup_l1 rp_bow_powerup_l2 rp_bow_powerup_l3 rp_bow_powerup_l4 rp_bow_powerup_l5
+932	xx_efx.bin	 efx_dark_fire
+933	xx_efx.bin	 efx_box_alpha
+934	xx_reaperlev1.bin	 rp_screamer
+935	xx_efx.bin	 efx_bglow
+936	xx_mecc_base.bin	 d_fun_house d_fun_house_l1 d_fun_house_l2 d_fun_house_l3 d_fun_house_l4
+937	xx_tools.bin	 scott_test
+938	xx_efx.bin	 efx_blooddrop
+942	xx_efx.bin	 efx_ice_target
+945	xx_offspring.bin	 offs_hotspot
+946	xx_efx.bin	 efx_swirl
+947	xx_efx.bin	 efx_lightning_1
+948	xx_efx.bin	 efx_lightning_2
+950	xx_efx.bin	 efx_rp_debri_1
+951	xx_smartie_stuff.bin	 sm_flag
+952	xx_smartie_stuff.bin	 sm_flag1
+953	xx_smartie_stuff.bin	 sm_flag2
+954	xx_smartie_stuff.bin	 sm_flag3
+955	xx_efx.bin	 efx_sun_yellow
+956	xx_efx.bin	 efx_sun_yellow_f
+959	xx_efx.bin	 efx_clockhand_1
+960	xx_efx.bin	 efx_clockhand_2
+964	xx_efx.bin	 efx_bow_charged
+965	xx_efx.bin	 efx_fire_ring
+966	xx_efx.bin	 efx_splash
+967	xx_reaper_base.bin	 d_spellshop_1 d_spellshop_1_l1 d_spellshop_1_l2 d_spellshop_1_l3 d_spellshop_1_l4
+968	xx_reaper_base.bin	 d_spellshop_2 d_spellshop_2_l1 d_spellshop_2_l2 d_spellshop_2_l3 d_spellshop_2_l4
+970	xx_reaper_base.bin	 d_extractor_2 d_extractor_2_l1 d_extractor_2_l2 d_extractor_2_l3 d_extractor_2_l4
+977	xx_bones.bin	 bone_femur
+978	xx_bones.bin	 bone_rib
+979	xx_bones.bin	 bone_spine
+980	xx_efx.bin	 efx_3dxhair
+981	xx_mecc_base.bin	 mecc_base_template_1
+983	xx_mecc_base.bin	 s_mecc_teleport s_mecc_teleport_l1 s_mecc_teleport_l2 s_mecc_teleport_l3
+984	xx_mecc_base.bin	 s_mecc_gpad s_mecc_gpad_l1 s_mecc_gpad_l2 s_mecc_gpad_l3 s_mecc_gpad_l4 s_mecc_gpad_l4
+985	xx_reaper_base.bin	 rp_base_template_1
+986	xx_mecc_base.bin	 s_mecc_shop s_mecc_shop_l1 s_mecc_shop_l2 s_mecc_shop_l3 s_mecc_shop_l4 s_mecc_shop_l5 s_mecc_shop_l6
+988	xx_mecc_base.bin	 s_mecc_tower s_mecc_tower_l1 s_mecc_tower_l2 s_mecc_tower_l3 s_mecc_tower_l4 s_mecc_tower_l5 s_mecc_tower_l6
+989	xx_reaper_base.bin	 s_reaper_shop s_reaper_shop_l1 s_reaper_shop_l2 s_reaper_shop_l3 s_reaper_shop_l4 s_reaper_shop_l5 s_reaper_shop_l6
+991	xx_mecc_base.bin	 gyro_l0
+992	xx_plants.bin	 shrub1 shrub1_l1
+993	xx_plants.bin	 shrub2
+994	xx_plants.bin	 shrub3
+996	xx_plants.bin	 shrub5 shrub5_l1 shrub5_l2 shrub5_l3
+997	xx_plants.bin	 shrub6 shrub6_l1 shrub6_l2 shrub6_l3
+998	xx_plants.bin	 shrub7 shrub7_l1 shrub7_l2 shrub7_l3
+999	xx_plants.bin	 shrub8 shrub8_l1 shrub8_l2 shrub8_l3
+1001	xx_story1.bin	 w_story1_hang
+1002	xx_smartie_stuff.bin	 smw_house5 smw_house5_l1 smw_house5_l2 smw_house5_l3 smw_house5_l4
+1003	xx_smartie_stuff.bin	 smw_house6 smw_house6_l1 smw_house6_l2 smw_house6_l3 smw_house6_l4
+1004	xx_tools.bin	 light
+1005	xx_permanentaliens.bin	 piranha
+1006	xx_ptree.bin	 ptree_bob_busted
+1007	xx_bigwalls.bin	 guard_center
+1007	xx_bigwalls_lite.bin	 guard_center
+1008	xx_story1.bin	 w_story1_ramp_1
+1009	xx_story1.bin	 w_story1_ramp_2 w_story1_ramp_2
+1009	xx_story1.bin	 w_story1_ramp_2 w_story1_ramp_2
+1009	xx_story1.bin	 w_story1_ramp_2 w_story1_ramp_2
+1009	xx_story1.bin	 w_story1_ramp_2 w_story1_ramp_2
+1010	xx_story1.bin	 w_story1_ramp_3
+1011	xx_story1.bin	 w_story1_ramp_4
+1012	xx_story1.bin	 w_story1_rock_1
+1013	xx_story1.bin	 w_story1_rock_2
+1014	xx_story1.bin	 w_story1_rock_3
+1015	xx_bigwalls.bin	 bw_gate_swing
+1016	xx_efx.bin	 efx_blur
+1017	xx_tools.bin	 sphere_coll
+1018	xx_kabutolev1.bin	 kabuto_shield
+1019	xx_menus.bin	 mu_mpselect
+1020	xx_menus.bin	 efx_menu
+1021	xx_guard_drawbridge.bin	 bw_drawbridge bw_drawbridge_coll
+1022	xx_bigwalls.bin	 bw_fence
+1023	xx_guard_prison.bin	 bw_prison bw_prison_l1 bw_prison_l2 bw_prison_l3
+1024	xx_smartie_stuff.bin	 fun_house_int
+1025	xx_menus.bin	 mu_idselect
+1026	xx_menus.bin	 mu_wdselect
+1027	xx_menus.bin	 mu_gnselect
+1028	xx_smartie_stuff.bin	 mctower
+1029	xx_plants.bin	 shrub9 shrub9_l1 shrub9_l2 shrub9_l3
+1030	xx_plants.bin	 shrub10 shrub10_l1 shrub10_l2
+1031	xx_plants.bin	 shrub11
+1041	xx_smartie_stuff.bin	 mcbarrack mcbarrack_l1 mcbarrack_l2 mcbarrack_l3 mcbarrack_l4 mcbarrack_l5 mcbarrack_l6
+1042	xx_rocks.bin	 desert_rock_1
+1043	xx_rocks.bin	 desert_rock_2
+1044	xx_rocks.bin	 desert_rock_3
+1045	xx_ptree.bin	 ptree_canopy ptree_canopy_l1 ptree_canopy_l2
+1047	xx_reaperman.bin	 rpm_snipergun rpm_snipergun_l1 rpm_snipergun_l2 rpm_snipergun_l3 rpm_snipergun_l4
+1048	xx_reaperman.bin	 rpm_bazooka rpm_bazooka_l1 rpm_bazooka_l2 rpm_bazooka_l3 rpm_bazooka_l4
+1049	xx_reaperman.bin	 rpm_jetpack rpm_jetpack_l1 rpm_jetpack_l2 rpm_jetpack_l3 rpm_jetpack_l4
+1050	xx_guard_buildings.bin	 guard_tower1 guard_tower1_l1 guard_tower1_l2 guard_tower1_l3 guard_tower1_l4
+1051	xx_guard_buildings.bin	 guard_tower2 guard_tower2_l1 guard_tower2_l2 guard_tower2_l3 guard_tower2_l4
+1052	xx_markers.bin	 marker_spline
+1053	xx_story4.bin	 story4
+1054	xx_formations.bin	 1sonak_4guards
+1055	xx_reaperman.bin	 rpm_torch
+1056	xx_guard_drawbridge.bin	 bw_drawbridge_open bw_drawbridgeo_coll
+1057	xx_story4.bin	 story4_gate
+1058	xx_formations.bin	 1tsonak_4guards
+1059	xx_formations.bin	 1mcsonak_4guards
+1060	xx_guard_barracks.bin	 bw_minibarracks bw_minibarracks_l1 bw_minibarracks_l2 bw_minibarracks_l3 bw_minibarracks_l4
+1061	xx_guard_buildings.bin	 guard_sam guard_sam_l1 guard_sam_l2 guard_sam_l3 guard_sam_l4
+1061	xx_guard_turrets.bin	 guard_sam guard_sam_l1 guard_sam_l2 guard_sam_l3 guard_sam_l4
+1062	xx_guard_buildings.bin	 guard_turret guard_turret_l1 guard_turret_l2 guard_turret_l3 guard_turret_l4
+1062	xx_guard_turrets.bin	 guard_turret guard_turret_l1 guard_turret_l2 guard_turret_l3 guard_turret_l4
+1063	xx_guard_prison.bin	 bw_prisoncrater bw_prisoncrater_l1 bw_prisoncrater_l2 bw_prisoncrater_l3
+1064	xx_charger.bin	 charger_hotspot
+1065	xx_guard_buildings.bin	 guard_lift guard_lift_l1 guard_lift_l2 guard_lift_l3 guard_lift_l4
+1066	xx_guard_buildings.bin	 guard_lift_strut guard_lift_strut_l1 guard_lift_strut_l2 guard_lift_strut_l3 guard_lift_strut_l4
+1067	xx_formations.bin	 2x4_guards
+1068	xx_formations.bin	 2x5_guards
+1069	xx_formations.bin	 2x3_guards
+1070	xx_formations.bin	 2x2_guards
+1071	xx_formations.bin	 2x1_guards
+1072	xx_guard_buildings.bin	 guard_bunker guard_bunker_l1 guard_bunker_l2 guard_bunker_l3 guard_bunker_l4
+1073	xx_smartie_stuff.bin	 sm_plate
+1074	xx_guard_buildings.bin	 guard_stable guard_stable_l1 guard_stable_l2 guard_stable_l3 guard_stable_l4
+1075	xx_smartie_stuff.bin	 potato
+1076	xx_jetski.bin	 rp_jetski
+1077	xx_guard_reaper_tower.bin	 bw_reapertower bw_reapertower_l1 bw_reapertower_l2 bw_reapertower_l3 bw_reapertower_l4 bw_reapertower_l5
+1078	xx_smartie_stuff.bin	 potato_basket
+1079	xx_reaperman.bin	 rpm_telescope rpm_telescope_l1 rpm_telescope_l2 rpm_telescope_l3 rpm_telescope_l4
+1080	xx_raik.bin	 raik_l0 raik_l1 raik_l2 raik_l3 raik_l4 raik_l5 raik_l6 raik_l7
+1081	xx_snow_stuff.bin	 iceberg1
+1082	xx_smyan_pagoda.bin	 sm_pagoda sm_pagoda_l1 sm_pagoda_l2 sm_pagoda_l3 sm_pagoda_l4
+1083	xx_smyan_pagoda.bin	 sm_pagodagong sm_pagodagong_l1 sm_pagodagong_l2 sm_pagodagong_l3 sm_pagodagong_l4
+1084	xx_smartie_stuff.bin	 sm_pagodagate
+1084	xx_smyan_pagoda.bin	 sm_pagodagate
+1085	xx_snow_stuff.bin	 iceberg2
+1086	xx_snow_stuff.bin	 iceberg3
+1087	xx_snow_stuff.bin	 iceberg4
+1088	xx_snow_stuff.bin	 iceberg_ramp
+1089	xx_snow_stuff.bin	 ice_wall
+1092	xx_guard_buildings.bin	 guard_shop guard_shop_l1 guard_shop_l2 guard_shop_l3 guard_shop_l4
+1093	xx_mecc_base.bin	 stone_command stone_command_l1 stone_command_l2 stone_command_l3 stone_command_l4 stone_command_l5 stone_command_l6
+1094	xx_guard_buildings.bin	 guard_lift_base guard_lift_base_l1 guard_lift_base_l2 guard_lift_base_l3 guard_lift_base_l4
+1095	xx_mecc_base.bin	 wood_command
+1096	xx_rocks.bin	 story3_ridge
+1097	xx_guard_buildings.bin	 guard_buoy guard_buoy_l1 guard_buoy_l2 guard_buoy_l3 guard_buoy_l4
+1098	xx_markers.bin	 buoy_spline
+1099	xx_jetski.bin	 p_jetski_homing
+1100	xx_jetski.bin	 p_jetski_missile
+1101	xx_jetski.bin	 p_jetski_turbo
+1102	xx_efx.bin	 efx_sunflare
+1104	xx_ripper.bin	 rip_gore_head
+1105	xx_ripper.bin	 rip_gore_arm
+1106	xx_efx.bin	 efx_ref_machinegun
+1107	xx_efx.bin	 efx_sniper_flash2
+1108	xx_efx.bin	 efx_smoke_ring
+1109	xx_efx.bin	 efx_ref_vert_circle
+1111	xx_efx.bin	 efx_shotgun_blast
+1112	xx_efx.bin	 efx_ripper_lspit
+1113	xx_efx.bin	 efx_ripper_mspit
+1114	xx_mecc_flick.bin	 mc_shotgun_shell
+1114	xx_mecclev1.bin	 mc_shotgun_shell
+1114	xx_rpman_weapons.bin	 mc_shotgun_shell
+1115	xx_formations.bin	 1tsonak
+1116	xx_sonak.bin	 rpman_sonak_shell
+1117	xx_vimp.bin	 vimpfoodchunk1
+1118	xx_vimp.bin	 vimpfoodchunk2
+1119	xx_vimp.bin	 vimpfoodchunk3
+1120	xx_efx.bin	 efx_sam_debri
+1121	xx_efx.bin	 efx_ref_sam_explode
+1122	xx_efx.bin	 efx_ref_turret_explode
+1123	xx_mecclev1.bin	 mc_pickup_mines
+1123	xx_rpman_weapons.bin	 mc_pickup_mines
+1124	xx_efx.bin	 efx_turret_debri
+1125	xx_efx.bin	 efx_smoke_ring_white
+1126	xx_giants_logo_3d.bin	 giants_logo_3d
+1127	xx_guard_buildings.bin	 guard_tower1d guard_tower1d_l1 guard_tower1d_l2 guard_tower1d_l3
+1128	xx_guard_buildings.bin	 guard_bunkerd guard_bunkerd_l1 guard_bunkerd_l2 guard_bunkerd_l3 guard_bunkerd_l4
+1129	xx_guard_buildings.bin	 guard_tower2d guard_tower2d_l1 guard_tower2d_l2 guard_tower2d_l3
+1130	xx_efx.bin	 efx_sunflare2
+1134	xx_efx.bin	 efx_stable_debri_2
+1135	xx_efx.bin	 efx_stable_debri_1
+1136	xx_efx.bin	 efx_stable_debri_3
+1137	xx_efx.bin	 efx_stable_debri_4
+1138	xx_guard_buildings.bin	 guard_stabled
+1139	xx_efx.bin	 efx_sun_orange
+1140	xx_efx.bin	 efx_guard_tower2
+1142	xx_efx.bin	 efx_smoke_green
+1144	xx_ptree.bin	 ptree_bob_coll
+1145	xx_efx.bin	 efx_mc_lbomb
+1146	xx_rstory4.bin	 rstory4
+1147	xx_rstory3.bin	 r3_start_finish
+1147	xx_rstory5.bin	 r3_start_finish
+1148	xx_reaper_base.bin	 magic_wall1
+1149	xx_reaper_base.bin	 magic_wall2
+1150	xx_reaper_base.bin	 magic_gate1
+1151	xx_reaper_base.bin	 magic_gate2
+1152	xx_reaper_base.bin	 rp_workshop rp_workshop_l1 rp_workshop_l2 rp_workshop_l3 rp_workshop_l4 rp_workshop_l5 rp_workshop_l6
+1153	xx_reaper_base.bin	 d_rp_workshop d_rp_workshop_l1 d_rp_workshop_l2 d_rp_workshop_l3 d_rp_workshop_l4
+1154	xx_reaper_base.bin	 rp_generator rp_generator_l1 rp_generator_l2 rp_generator_l3 rp_generator_l4 rp_generator_l5 rp_generator_l6
+1155	xx_reaper_base.bin	 d_rp_generator d_rp_generator_l1 d_rp_generator_l2 d_rp_generator_l3 d_rp_generator_l4
+1156	xx_reaper_base.bin	 rp_fun_house rp_fun_house_l1 rp_fun_house_l2 rp_fun_house_l3 rp_fun_house_l4 rp_fun_house_l5 rp_fun_house_l6
+1157	xx_reaper_base.bin	 d_rp_fun_house d_rp_fun_house_l1 d_rp_fun_house_l2 d_rp_fun_house_l3 d_rp_fun_house_l4
+1158	xx_reaper_base.bin	 rp_command rp_command_l1 rp_command_l2 rp_command_l3 rp_command_l4 rp_command_l5 rp_command_l6
+1159	xx_jetski_rpm.bin	 rpm_jetski
+1160	xx_rstory3.bin	 r3_lap_marker
+1160	xx_rstory5.bin	 r3_lap_marker
+1161	xx_guard_army_barracks.bin	 guard_army_barracks guard_army_barracks_l1 guard_army_barracks_l2 guard_army_barracks_l3 guard_army_barracks_l4 guard_army_barracks_l5 guard_army_barracks_l6
+1162	xx_markers.bin	 army_spline
+1163	xx_rocks.bin	 pebble
+1164	xx_rstory3.bin	 r_grid r_grid_l0 r_grid_l1 r_grid_l2
+1164	xx_rstory5.bin	 r_grid
+1165	xx_efx.bin	 efx_rstory5_volcano
+1166	xx_rstory5.bin	 rstory5_cave
+1168	xx_toby.bin	 toby
+1169	xx_story4.bin	 story4_door
+1170	xx_efx.bin	 efx_ice_wall_debri
+1171	xx_reaper_ship.bin	 reaper_ship
+1172	xx_reaper_ship.bin	 reaper_ship_husk
+1173	xx_guard_army_barracks.bin	 guard_army_barracks_husk
+1174	xx_formations.bin	 7_flying_guards
+1175	xx_kab_stuff.bin	 mag_crystal
+1176	xx_formations.bin	 1_ripper
+1177	xx_formations.bin	 2_rippers
+1178	xx_formations.bin	 3_rippers
+1180	xx_formations.bin	 1_kamikazi
+1181	xx_reaper_base.bin	 s_reaper_pier s_reaper_pier_l1 s_reaper_pier_l2 s_reaper_pier_l3 s_reaper_pier_l4 s_reaper_pier_l5 s_reaper_pier_l6
+1185	xx_mecc_base.bin	 s_mecc_sam s_mecc_sam_l1 s_mecc_sam_l2 s_mecc_sam_l3 s_mecc_sam_l4 s_mecc_sam_l5 s_mecc_sam_l6
+1186	xx_mecc_base.bin	 s_mecc_turret s_mecc_turret_l1 s_mecc_turret_l2 s_mecc_turret_l3 s_mecc_turret_l4 s_mecc_turret_l5 s_mecc_turret_l6
+1187	xx_reaper_base.bin	 s_reaper_turret s_reaper_turret_l1 s_reaper_turret_l2 s_reaper_turret_l3 s_reaper_turret_l4 s_reaper_turret_l5 s_reaper_turret_l6
+1188	xx_reaper_base.bin	 s_reaper_sam s_reaper_sam_l1 s_reaper_sam_l2 s_reaper_sam_l3 s_reaper_sam_l4 s_reaper_sam_l5 s_reaper_sam_l6
+1189	xx_reaper_base.bin	 s_reaper_tower s_reaper_tower_l1 s_reaper_tower_l2 s_reaper_tower_l3 s_reaper_tower_l4 s_reaper_tower_l5 s_reaper_tower_l6
+1190	xx_guard_barracks.bin	 barracks_husk
+1192	xx_reaper_base.bin	 s_reaper_portal
+1198	xx_lander.bin	 mother_ship
+1199	xx_kab_stuff.bin	 mag_crystal_shard
+1200	xx_smyan.bin	 yan_sword
+1200	xx_smyan_flick.bin	 yan_sword
+1201	xx_story4.bin	 mc_cutout1
+1202	xx_story4.bin	 mc_cutout2
+1203	xx_reaperman.bin	 rpm_bomb rpm_bomb_l1 rpm_bomb_l2 rpm_bomb_l3 rpm_bomb_l4
+1204	xx_kab_stuff.bin	 kabuto_stone
+1204	xx_kabuto_flick.bin	 kabuto_stone
+1205	xx_efx.bin	 efx_portal
+1206	xx_efx.bin	 efx_mc_rocket
+1207	xx_giantwalls.bin	 giantwall1 giantwall1_l1 giantwall1_l2 giantwall1_l3 giantwall1_l4
+1208	xx_giantwalls.bin	 giantwall2 giantwall2_l1 giantwall2_l2 giantwall2_l3 giantwall2_l4
+1209	xx_giantwalls.bin	 giantwall3 giantwall3_l1 giantwall3_l2 giantwall3_l3 giantwall3_l4
+1210	xx_kab_stuff.bin	 kab_ash
+1211	xx_guard_buildings.bin	 guard_portal
+1212	xx_smtimmy.bin	 sm_timmygrave
+1212	xx_smtimmy_flick.bin	 sm_timmygrave
+1213	xx_guard_buildings.bin	 guard_portal_m
+1214	xx_reaper_ship.bin	 reaper_galleon
+1215	xx_kab_stuff.bin	 k_rock_gen
+1216	xx_kstory5.bin	 k_pocket
+1217	xx_smdoomed.bin	 smdoomed_l0
+1218	xx_smdoomed.bin	 smd_ground
+1219	xx_formations.bin	 5_flying_guards
+1220	xx_formations.bin	 3_flying_guards
+1221	xx_efx.bin	 efx_portal_charm
+1222	xx_reaperlev1.bin	 rp_mine rp_mine_l1 rp_mine_l2 rp_mine_l3 rp_mine_l4
+1223	xx_reaperlev1.bin	 rp_pickup_mines
+1224	xx_reaperlev1.bin	 rp_health
+1225	xx_reaperlev1.bin	 rp_pickup_health
+1226	xx_guard_barracks.bin	 guard_ripperbarracks guard_ripperbarracks_l1 guard_ripperbarracks_l2 guard_ripperbarracks_l3 guard_ripperbarracks_l4
+1228	xx_reaper_base.bin	 d_magic_wall1
+1229	xx_reaper_base.bin	 d_magic_wall2
+1230	xx_reaper_base.bin	 d_magic_gate1
+1231	xx_reaper_base.bin	 d_magic_gate2
+1233	xx_reaperlev1.bin	 rp_pickup_repair
+1234	xx_story1.bin	 w_story1_walls
+1235	xx_story1.bin	 w_story1_arch
+1236	xx_story1.bin	 w_story1_entrance
+1237	xx_mecc_base.bin	 d_stone_command d_stone_command_l1 d_stone_command_l2 d_stone_command_l3 d_stone_command_l4
+1238	xx_reaper_base.bin	 d_rp_command d_rp_command_l1 d_rp_command_l2 d_rp_command_l3 d_rp_command_l4
+1239	xx_raik.bin	 raik_l7
+1240	xx_rpqueen.bin	 rpqueen_l7
+1241	xx_theend.bin	 reg_kiss
+1242	xx_kab_stuff.bin	 k_lava_ball
+1242	xx_seamonster.bin	 k_lava_ball
+1243	xx_kab_stuff.bin	 k_volcano_debri
+1244	xx_kab_stuff.bin	 k_exhaust
+1245	xx_efx.bin	 efx_repair_ring
+1246	xx_kab_stuff.bin	 k_rock_gen_top
+1247	xx_story1.bin	 w_story1_mine
+1248	xx_story1.bin	 w_story1_walls_1
+1249	xx_story1.bin	 w_story1_walls_2
+1250	xx_story1.bin	 w_story1_walls_3
+1251	xx_story1.bin	 w_story1_walls_4
+1252	xx_story1.bin	 w_story1_walls_5
+1253	xx_story1.bin	 w_story1_walls_6
+1255	xx_reaper_base.bin	 efx_magic_w1
+1256	xx_efx.bin	 efx_portal_open_loop
+1257	xx_efx.bin	 efx_portal_open_flick
+1258	xx_efx.bin	 efx_portal_close_flick
+1259	xx_story1.bin	 w_story1_hang_flick
+1274	xx_plants.bin	 shrub5_coll
+1275	xx_tools.bin	 ripper_radius
+1276	xx_guard_barracks.bin	 barracks_story2 barracks_l1 barracks_l2 barracks_l3 barracks_l4 barracks_l5
+1277	xx_giantwalls.bin	 giantwall4 giantwall4_l1 giantwall4_l2 giantwall4_l3 giantwall4_l4
+1279	xx_ambient.bin	 a_m1_near_beach
+1280	xx_ambient.bin	 a_m2_mnt_beach
+1281	xx_ambient.bin	 a_m3_cliffs_sand
+1282	xx_ambient.bin	 a_m4_beach_dark
+1283	xx_ambient.bin	 a_m5_beach_waves
+1284	xx_ambient.bin	 a_r1_light_rain
+1285	xx_ambient.bin	 a_r2_snow
+1286	xx_ambient.bin	 a_r3_race
+1287	xx_ambient.bin	 a_r4_darker
+1288	xx_ambient.bin	 a_r5_mountain
+1289	xx_ambient.bin	 a_k1
+1290	xx_ambient.bin	 a_k5_storm
+1291	xx_ambient.bin	 a_crashed_lander
+1293	xx_ambient.bin	 a_floating_gate
+1295	xx_ambient.bin	 a_cage
+1296	xx_ambient.bin	 a_distant_birds
+1297	xx_ambient.bin	 a_wind_gusts
+1298	xx_ambient.bin	 a_single_tree
+1299	xx_ambient.bin	 a_trees
+1300	xx_ambient.bin	 a_shoreline
+1301	xx_ambient.bin	 a_pools
+1302	xx_ambient.bin	 a_pier
+1303	xx_ambient.bin	 a_big_leaf_tree
+1304	xx_ambient.bin	 a_reaper_tower
+1305	xx_ambient.bin	 a_int_volcano
+1306	xx_ambient.bin	 a_smartie_village
+1308	xx_ambient.bin	 a_high_winds
+1309	xx_ambient.bin	 a_prison
+1310	xx_ambient.bin	 a_army_barracks
+1312	xx_ambient.bin	 a_forest_trees
+1313	xx_ambient.bin	 a_distant_animals
+1314	xx_formations.bin	 4_wide_guards
+1315	xx_ambient.bin	 a_shoreline_long
+1316	xx_ambient.bin	 a_shoreline_dark_short
+1317	xx_ambient.bin	 a_shoreline_dark_long
+1318	xx_ambient.bin	 a_river
+1319	xx_ambient.bin	 a_high_winds_light
+1320	xx_ambient.bin	 a_cold_wind_gusts
+1322	xx_efx.bin	 efx_giantwall4
+1323	xx_music_temp.bin	 a_kabuto_temp
+1324	xx_music_temp.bin	 a_mecc_temp
+1325	xx_music_temp.bin	 a_mecc_temp_amb
+1326	xx_music_temp.bin	 a_mecc_temp_battle
+1327	xx_music_temp.bin	 a_mecc_temp_sus
+1328	xx_story4.bin	 story4_tower story4_tower_l1 story4_tower_l2 story4_tower_l3 story4_tower_l4 story4_tower_l5
+1330	xx_guard_buildings.bin	 guard_buoy_coll
+1331	xx_jetski_rpm.bin	 rpm_jetski_coll
+1332	xx_reaper_base.bin	 efx_magic_w2
+1333	xx_giantwalls.bin	 giantwall5 giantwall5_l1 giantwall5_l2 giantwall5_l3 giantwall5_l4
+1334	xx_kab_stuff.bin	 kabutopad
+1335	xx_smartie_stuff.bin	 smw_house7 smw_house7_l1 smw_house7_l2 smw_house7_l3 smw_house7_l4
+1336	xx_smartie_stuff.bin	 smw_house8 smw_house8_l1 smw_house8_l2 smw_house8_l3 smw_house8_l4
+1337	xx_sm_evil.bin	 sm_evil_l0
+1338	xx_ambient.bin	 a_k2
+1339	xx_ambient.bin	 a_k3
+1340	xx_ambient.bin	 a_k4
+1342	xx_ambient.bin	 a_special_tree
+1343	xx_ambient.bin	 a_pools_large
+1344	xx_ambient.bin	 a_boat
+1348	xx_smartie_stuff.bin	 sm_tower_timmy
+1349	xx_jetski.bin	 p_jetski_coll
+1350	xx_reaper_base.bin	 efx_magic_gate1
+1351	xx_reaper_base.bin	 efx_magic_gate2
+1354	xx_smartie_stuff.bin	 sm_table_dad
+1355	xx_ambient.bin	 a_volcano
+1356	xx_rstory5.bin	 rstory5_volcano_coll
+1357	xx_rstory5.bin	 rstory5_fake
+1358	xx_efx.bin	 efx_flare
+1359	xx_giantwalls.bin	 giantwall3_nick
+1360	xx_efx.bin	 efx_offspring_spit
+1361	xx_efx.bin	 efx_offspring_fire
+1363	xx_efx.bin	 efx_red_rings
+1364	xx_efx.bin	 efx_ref_crooked_line
+1365	xx_efx.bin	 efx_whizzer
+1366	xx_efx.bin	 efx_whizzer_sparkles
+1367	xx_efx.bin	 efx_deep_red
+1368	xx_efx.bin	 efx_whizzer_charml
+1369	xx_efx.bin	 efx_whizzer_charmr
+1370	xx_kstory5.bin	 k_spike
+1371	xx_kstory5.bin	 k_bridge_1
+1372	xx_kstory5.bin	 k_bridge_2
+1373	xx_kstory5.bin	 k_bridge_3
+1374	xx_jetski.bin	 sign
+1375	xx_kab_stuff.bin	 efx_crystal_debri
+1376	xx_guard_barracks.bin	 efx_ref_minibarracks
+1377	xx_guard_barracks.bin	 efx_mini_debri_top
+1378	xx_guard_barracks.bin	 efx_mini_debri_1
+1379	xx_guard_barracks.bin	 efx_mini_debri_2
+1380	xx_guard_barracks.bin	 efx_mini_debri_3
+1381	xx_guard_buildings.bin	 efx_ref_guard_tower_1
+1382	xx_guard_buildings.bin	 efx_guard_tower_debri_1
+1383	xx_guard_buildings.bin	 efx_guard_tower_debri_2
+1384	xx_guard_buildings.bin	 efx_guard_tower_debri_3
+1385	xx_guard_buildings.bin	 efx_guard_tower_debri_4
+1386	xx_guard_buildings.bin	 efx_guard_tower_debri_5
+1387	xx_guard_buildings.bin	 efx_ref_guard_tower_2
+1388	xx_guard_buildings.bin	 efx_tower_2_debri_1
+1389	xx_guard_buildings.bin	 efx_tower_2_debri_2
+1390	xx_guard_buildings.bin	 efx_tower_2_debri_3
+1391	xx_guard_barracks.bin	 efx_rpbarracks_debri_1
+1392	xx_guard_barracks.bin	 efx_rpbarracks_debri_2
+1393	xx_guard_barracks.bin	 efx_rpbarracks_debri_3
+1394	xx_giantwalls.bin	 efx_ref_giantwall3
+1395	xx_giantwalls.bin	 efx_giantwall_debri_1
+1396	xx_giantwalls.bin	 efx_giantwall_debri_2
+1397	xx_giantwalls.bin	 efx_giantwall_debri_3
+1398	xx_giantwalls.bin	 efx_giantwall_debri_4
+1399	xx_giantwalls.bin	 efx_giantwall_debri_5
+1400	xx_giantwalls.bin	 efx_giantwall_debri_6
+1401	xx_giantwalls.bin	 efx_giantwall_debri_7
+1402	xx_giantwalls.bin	 efx_giantwall_debri_8
+1403	xx_giantwalls.bin	 efx_giantwall_debri_9
+1404	xx_giantwalls.bin	 efx_giantwall_debri_10
+1405	xx_giantwalls.bin	 efx_giantwall_debri_11
+1406	xx_giantwalls.bin	 efx_giantwall_debri_12
+1407	xx_giantwalls.bin	 efx_giantwall_debri_13
+1408	xx_giantwalls.bin	 efx_giantwall_debri_14
+1409	xx_giantwalls.bin	 efx_ref_giantwall5
+1410	xx_giantwalls.bin	 efx_giantwall5_debri_1
+1411	xx_giantwalls.bin	 efx_giantwall3_debri_s
+1412	xx_efx.bin	 efx_smoke_ring_b
+1413	xx_bridge.bin	 bridge_wide
+1414	xx_guard_drawbridge.bin	 bw_drawbridge_coll
+1415	xx_guard_drawbridge.bin	 bw_drawbridgeo_coll
+1416	xx_kab_stuff.bin	 k_rock_gen_coll
+1417	xx_efx.bin	 efx_soot
+<0 (xx_permanentaliens.bin): invalid>		
+<210 (xx_dactyl.bin): invalid>		
+<241 (xx_reaperman.bin): unknown yet>		
+<845 (xx_vimp.bin): unknown yet>		
